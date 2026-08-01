@@ -1,2 +1,2 @@
 This repository contains the implementation of basic concepts of C# and dot net. 
-Day1:Variables, functions, and conditional statements have been used. It consist of a web api and several endpoints to test it.
+Day1:It consists of variables, functions, and conditional statements. A web api has been created along with several endpoints to test it.
