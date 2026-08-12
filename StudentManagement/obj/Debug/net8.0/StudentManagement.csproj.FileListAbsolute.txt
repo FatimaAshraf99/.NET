@@ -1,0 +1,15 @@
+/home/fatima/dotnettask/2Aug/StudentManagement/bin/Debug/net8.0/StudentManagement
+/home/fatima/dotnettask/2Aug/StudentManagement/bin/Debug/net8.0/StudentManagement.deps.json
+/home/fatima/dotnettask/2Aug/StudentManagement/bin/Debug/net8.0/StudentManagement.runtimeconfig.json
+/home/fatima/dotnettask/2Aug/StudentManagement/bin/Debug/net8.0/StudentManagement.dll
+/home/fatima/dotnettask/2Aug/StudentManagement/bin/Debug/net8.0/StudentManagement.pdb
+/home/fatima/dotnettask/2Aug/StudentManagement/obj/Debug/net8.0/StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+/home/fatima/dotnettask/2Aug/StudentManagement/obj/Debug/net8.0/StudentManagement.AssemblyInfoInputs.cache
+/home/fatima/dotnettask/2Aug/StudentManagement/obj/Debug/net8.0/StudentManagement.AssemblyInfo.cs
+/home/fatima/dotnettask/2Aug/StudentManagement/obj/Debug/net8.0/StudentManagement.csproj.CoreCompileInputs.cache
+/home/fatima/dotnettask/2Aug/StudentManagement/obj/Debug/net8.0/StudentManagement.sourcelink.json
+/home/fatima/dotnettask/2Aug/StudentManagement/obj/Debug/net8.0/StudentManagement.dll
+/home/fatima/dotnettask/2Aug/StudentManagement/obj/Debug/net8.0/refint/StudentManagement.dll
+/home/fatima/dotnettask/2Aug/StudentManagement/obj/Debug/net8.0/StudentManagement.pdb
+/home/fatima/dotnettask/2Aug/StudentManagement/obj/Debug/net8.0/StudentManagement.genruntimeconfig.cache
+/home/fatima/dotnettask/2Aug/StudentManagement/obj/Debug/net8.0/ref/StudentManagement.dll
